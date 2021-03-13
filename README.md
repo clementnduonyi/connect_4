@@ -9,4 +9,4 @@
 
  The interesting thing is that, I wrote a test was written before writting code for the game to pass the test for what TDD is.
 
- [Theodinprojec-TDD Connect Four](https://www.theodinproject.com/courses/ruby-programming/lessons/testing-your-ruby-code#assignment-2)
+ [Theodinproject-TDD Connect Four](https://www.theodinproject.com/courses/ruby-programming/lessons/testing-your-ruby-code#assignment-2)
